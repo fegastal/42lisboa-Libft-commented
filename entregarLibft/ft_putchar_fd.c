@@ -24,7 +24,7 @@
  
  * Continuamos a utilizar o endereço do nosso char c para a
  * cadeia de caracteres terminada nula como o conteúdo
- * para escrever, e ainda sabemos que escreveremos apenas um personagem para
+ * para escrever, e ainda sabemos que escreveremos apenas um caractere para
  * o nosso descritor de ficheiro desejado, pelo que utilizamos 1,
  * uma vez que iremos escrever 1 byte.*/
 
